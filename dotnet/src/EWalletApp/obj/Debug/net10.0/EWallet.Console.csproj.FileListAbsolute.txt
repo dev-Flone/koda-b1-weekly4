@@ -1,0 +1,15 @@
+C:\Users\Flone\Documents\Kodakademy\weekly4\dotnet\src\EWalletApp\bin\Debug\net10.0\EWallet.Console.exe
+C:\Users\Flone\Documents\Kodakademy\weekly4\dotnet\src\EWalletApp\bin\Debug\net10.0\EWallet.Console.deps.json
+C:\Users\Flone\Documents\Kodakademy\weekly4\dotnet\src\EWalletApp\bin\Debug\net10.0\EWallet.Console.runtimeconfig.json
+C:\Users\Flone\Documents\Kodakademy\weekly4\dotnet\src\EWalletApp\bin\Debug\net10.0\EWallet.Console.dll
+C:\Users\Flone\Documents\Kodakademy\weekly4\dotnet\src\EWalletApp\bin\Debug\net10.0\EWallet.Console.pdb
+C:\Users\Flone\Documents\Kodakademy\weekly4\dotnet\src\EWalletApp\obj\Debug\net10.0\EWallet.Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Flone\Documents\Kodakademy\weekly4\dotnet\src\EWalletApp\obj\Debug\net10.0\EWallet.Console.AssemblyInfoInputs.cache
+C:\Users\Flone\Documents\Kodakademy\weekly4\dotnet\src\EWalletApp\obj\Debug\net10.0\EWallet.Console.AssemblyInfo.cs
+C:\Users\Flone\Documents\Kodakademy\weekly4\dotnet\src\EWalletApp\obj\Debug\net10.0\EWallet.Console.csproj.CoreCompileInputs.cache
+C:\Users\Flone\Documents\Kodakademy\weekly4\dotnet\src\EWalletApp\obj\Debug\net10.0\EWallet.Console.sourcelink.json
+C:\Users\Flone\Documents\Kodakademy\weekly4\dotnet\src\EWalletApp\obj\Debug\net10.0\EWallet.Console.dll
+C:\Users\Flone\Documents\Kodakademy\weekly4\dotnet\src\EWalletApp\obj\Debug\net10.0\refint\EWallet.Console.dll
+C:\Users\Flone\Documents\Kodakademy\weekly4\dotnet\src\EWalletApp\obj\Debug\net10.0\EWallet.Console.pdb
+C:\Users\Flone\Documents\Kodakademy\weekly4\dotnet\src\EWalletApp\obj\Debug\net10.0\EWallet.Console.genruntimeconfig.cache
+C:\Users\Flone\Documents\Kodakademy\weekly4\dotnet\src\EWalletApp\obj\Debug\net10.0\ref\EWallet.Console.dll
